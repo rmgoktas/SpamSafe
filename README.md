@@ -1,5 +1,5 @@
 # Spam Detection AI Model
-AI Model that detects spam SMS or E-Mail's.
+AI Model that detects spam SMS or E-Mail's via NLP.
 ## How to test on my machine locally ?
 
 - Clone the repository. Also you can download by ZIP.
